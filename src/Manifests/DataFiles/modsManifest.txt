@@ -1,0 +1,13 @@
+mods={
+Weapons_Serration={
+name=Serration
+maxRank=10
+modEffects=[
+{
+target=Weapon_baseDamage
+value=0.15
+delta=0.15
+}
+]
+}
+}

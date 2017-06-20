@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="Mk01.Control.MainClass" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Control/MainClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="171" x="704" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Mk01.Control.Trial" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Control/Trial.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="405" x="1584" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="3" language="java" name="Mk01.Control.Trial.TrialModes" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Control/Trial.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="871" y="402"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="4" language="java" name="Mk01.Control.Trial.TrialPreset" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Control/Trial.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1124" y="602"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Mk01.Control.RunReferee" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Control/RunReferee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="325" x="1624" y="603"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="6" language="java" name="Mk01.Enemy.baseMeatPuppet.EnemyDamageTargets" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Enemy/baseMeatPuppet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="244" x="3116" y="4469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="7" language="java" name="Mk01.Enemy.MeatPuppet" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Enemy/MeatPuppet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="737" x="2213" y="3080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Mk01.Enemy.WeinerPuppet" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Enemy/WeinerPuppet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="748" x="2885" y="922"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Mk01.Enemy.baseMeatPuppet" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Enemy/baseMeatPuppet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="765" width="761" x="4213" y="2046"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="10" language="java" name="Mk01.Enemy.WeinerPuppet.TokenQueues" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Enemy/WeinerPuppet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="291" x="2096" y="1421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="11" language="java" name="Mk01.Enemy.coreMeatPuppet" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Enemy/coreMeatPuppet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="789" x="4993" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Mk01.Weapons.GunWeaponInstance" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Weapons/GunWeaponInstance.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="331" x="3694" y="922"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Mk01.Weapons.AccuracyMappers.FlatAccuracyMapper" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Weapons/AccuracyMappers/FlatAccuracyMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1427" y="649"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="Mk01.Weapons.AccuracyMappers.AccuracyMapper" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Weapons/AccuracyMappers/AccuracyMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="241" x="1299" y="1421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="Mk01.Weapons.AccuracyMappers.FullBodyAccuracyMapper" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Weapons/AccuracyMappers/FullBodyAccuracyMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="241" x="976" y="922"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Enums.AfflictionTypes.AfflictionToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/AfflictionTypes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="280" x="1456" y="4469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="17" language="java" name="Enums.locMatTypes" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/locMatTypes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="231" x="4993" y="3898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="18" language="java" name="Enums.locDamTypes" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/locDamTypes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="603" width="338" x="1705" y="5377"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="19" language="java" name="Enums.ModEffectTargets" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/ModEffectTargets.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="210" x="3710" y="1421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="20" language="java" name="Enums.Procs_StandardTicks" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/Procs_StandardTicks.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="276" x="1790" y="3080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <interface id="21" language="java" name="Enums.AfflictionTypes.AfflictionTokenMinter" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/AfflictionTypes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="232" x="1727" y="4780"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <enumeration id="22" language="java" name="Enums.TickIntervals" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/TickIntervals.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="202" x="3177" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="23" language="java" name="Enums.Factions" project="DPSCaalc" file="/DPSCaalc/src/Enums/Factions.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="150" x="127" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="24" language="java" name="Enums.StatusProcEffectValues" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/StatusProcEffectValues.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="325" x="3440" y="3080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="25" language="java" name="Enums.TriggerTypes" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/TriggerTypes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="172" x="404" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="26" language="java" name="Enums.AfflictionTypes" project="DPSCaalc" 
+    file="/DPSCaalc/src/Enums/AfflictionTypes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="244" x="1652" y="3898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="27" language="java" name="DamagePackets.ShotReport.ShotReport_noProc" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/ShotReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="284" x="213" y="3898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="DamagePackets.ShotReport" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/ShotReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="370" x="213" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="DamagePackets.ShotReport.ShotReport_withProc" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/ShotReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="360" x="537" y="3898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="DamagePackets.Points.crittableDamagePoint.crittableDamagePoint_withCrit" 
+    project="DPSCaalc" file="/DPSCaalc/src/DamagePackets/Points/crittableDamagePoint.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="325" x="1031" y="5184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="DamagePackets.Points.crittableDamagePoint.crittableDamagePoint_noCrit" 
+    project="DPSCaalc" file="/DPSCaalc/src/DamagePackets/Points/crittableDamagePoint.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="267" x="1396" y="5184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="DamagePackets.Points.crittableDamagePoint" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/Points/crittableDamagePoint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="341" x="1033" y="4991"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="DamagePackets.Points.unitDamagePoint" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/Points/unitDamagePoint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="212" x="1999" y="4780"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="DamagePackets.Packets.unitDamagePacket.unitDamagePacketBuilder" 
+    project="DPSCaalc" file="/DPSCaalc/src/DamagePackets/Packets/unitDamagePacket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="382" x="2524" y="3898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="DamagePackets.Packets.scaledDamagePacket.scaledDamagePacketBuilder" 
+    project="DPSCaalc" file="/DPSCaalc/src/DamagePackets/Packets/scaledDamagePacket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="273" x="2272" y="4469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="DamagePackets.Packets.unitDamagePacket.unitDamagePacketBuilder.mutFlavoredValue" 
+    project="DPSCaalc" file="/DPSCaalc/src/DamagePackets/Packets/unitDamagePacket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="184" x="2585" y="4469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="DamagePackets.Packets.unitDamagePacket" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/Packets/unitDamagePacket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="218" x="2418" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="DamagePackets.Packets.crittableDamagePacket" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/Packets/crittableDamagePacket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="312" x="1073" y="4469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="DamagePackets.Packets.scaledDamagePacket" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/Packets/scaledDamagePacket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="257" x="2227" y="3898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="DamagePackets.Packets.unitDamagePacket.locIterator" project="DPSCaalc" 
+    file="/DPSCaalc/src/DamagePackets/Packets/unitDamagePacket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="167" x="1999" y="3898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="Mk01.Procs.CorrodedProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/CorrodedProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="244" x="1727" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="Mk01.Procs.BulletDamageProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/BulletDamageProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="229" x="2011" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="Mk01.Procs.WeaknessProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/WeaknessProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="252" x="3513" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="Mk01.Procs.ToxinProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/ToxinProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="369" x="234" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="Mk01.Procs.MagnetizedProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/MagnetizedProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="256" x="3175" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="Mk01.Procs.AblazeProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/AblazeProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="338" x="685" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="Mk01.Procs.TickingDamageProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/TickingDamageProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="451" x="725" y="2046"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="Mk01.Procs.ToxinProcToken.ToxinProcToken_viaGas" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/ToxinProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="335" x="645" y="3080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="Mk01.Procs.PlaguedProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/PlaguedProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="239" x="2875" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="Mk01.Procs.SingleTickProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/SingleTickProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="287" x="1685" y="2046"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="Mk01.Procs.statWarpingProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/statWarpingProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="334" x="2469" y="2046"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="Mk01.Procs.GassedProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/GassedProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="305" x="665" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="Mk01.Procs.ChilledProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/ChilledProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="232" x="2603" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="Mk01.Procs.ProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/ProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="276" x="2469" y="1421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="Mk01.Procs.RadProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/RadProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="220" x="2343" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="Mk01.Procs.SingleTickDamageProcToken" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Procs/SingleTickDamageProcToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="477" x="1084" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="Mk01.StatsTracking.StatsBundle" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/StatsTracking/StatsBundle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="144" x="245" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="Mk01.StatsTracking.StatsBundle.StatHelper_Dub" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/StatsTracking/StatsBundle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="626" y="658"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="Mk01.StatsTracking.StatsBundle.StatHelper_Int" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/StatsTracking/StatsBundle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="243" y="694"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="Mk01.Reports.Report" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/Report.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="180" x="4044" y="3080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="61" language="java" name="Mk01.Reports.Report.ReportCategories" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/Report.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="195" x="3868" y="4469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="62" language="java" name="Mk01.Reports.Report.NullReportClass" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/Report.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="170" x="4699" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="Mk01.Reports.CircleOfLife.InitializationReport" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/CircleOfLife/InitializationReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="171" x="3772" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="Mk01.Reports.CircleOfLife.ForcedExpirationReport" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/CircleOfLife/ForcedExpirationReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="229" x="3503" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="Mk01.Reports.CircleOfLife.EnemyDeathReport" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/CircleOfLife/EnemyDeathReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="177" x="3994" y="2851"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="Mk01.Reports.CircleOfLife.ExpirationReport" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/CircleOfLife/ExpirationReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="170" x="3689" y="2046"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="Mk01.Reports.DirectStatManip.multiplicativeStatChangeReport" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/DirectStatManip/multiplicativeStatChangeReport.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="709" x="3908" y="3898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="Mk01.Reports.DirectStatManip.additiveStatChangeReport" project="DPSCaalc" 
+    file="/DPSCaalc/src/Mk01/Reports/DirectStatManip/additiveStatChangeReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="634" x="3983" y="3489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="69">    
+    <bendpoint x="2438" y="922"/>    
+    <bendpoint x="2438" y="1421"/>    
+    <bendpoint x="2438" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="70">    
+    <bendpoint x="1738" y="3080"/>    
+    <bendpoint x="1738" y="3489"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="4243" y="2851"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="3081" y="2046"/>    
+    <bendpoint x="3461" y="2851"/>    
+    <bendpoint x="3367" y="3080"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="73">    
+    <bendpoint x="1549" y="922"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="74">    
+    <bendpoint x="1654" y="1421"/>    
+    <bendpoint x="1507" y="2046"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="75">    
+    <bendpoint x="1010" y="3080"/>    
+    <bendpoint x="1063" y="3489"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="76">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="77" name="Owner"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="79">    
+    <bendpoint x="1073" y="3080"/>    
+    <bendpoint x="1042" y="3489"/>    
+    <bendpoint x="1042" y="3898"/>    
+    <bendpoint x="1042" y="4469"/>    
+    <bendpoint x="1042" y="4780"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="80">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="81">    
+    <bendpoint x="1675" y="2851"/>    
+    <bendpoint x="1675" y="3080"/>    
+    <bendpoint x="1675" y="3489"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <nesting id="82">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="62"/>  
+  </nesting>  
+  <nesting id="83">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="59"/>  
+  </nesting>  
+  <association id="84">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="85" name="type"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="66"/>  
+  </generalization>  
+  <nesting id="88">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="58"/>  
+  </nesting>  
+  <dependency id="89">    
+    <bendpoint x="3104" y="3080"/>    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="90">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="91">    
+    <bendpoint x="1675" y="922"/>    
+    <bendpoint x="1675" y="1421"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="39"/>  
+  </generalization>  
+  <dependency id="93">    
+    <bendpoint x="2999" y="3489"/>    
+    <bendpoint x="2999" y="3898"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="94">    
+    <bendpoint x="4920" y="2851"/>    
+    <bendpoint x="4920" y="3080"/>    
+    <bendpoint x="4920" y="3489"/>    
+    <bendpoint x="4920" y="3898"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <generalization id="95">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <dependency id="96">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <dependency id="97">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <generalization id="98">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="99">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="100" name="targetEnemy"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="102">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <nesting id="103">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <dependency id="104">    
+    <bendpoint x="2117" y="3080"/>    
+    <bendpoint x="2687" y="3489"/>    
+    <bendpoint x="2978" y="3898"/>    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="105">    
+    <bendpoint x="31" y="603"/>    
+    <bendpoint x="35" y="922"/>    
+    <bendpoint x="77" y="1421"/>    
+    <bendpoint x="119" y="2046"/>    
+    <bendpoint x="140" y="2851"/>    
+    <bendpoint x="203" y="3080"/>    
+    <bendpoint x="634" y="3489"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <generalization id="106">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <dependency id="107">    
+    <bendpoint x="2854" y="922"/>    
+    <bendpoint x="2978" y="1421"/>    
+    <bendpoint x="3102" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="108">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="109" name="procsPerSec"/>      
+      <multiplicity id="110" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="111">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <dependency id="112">    
+    <bendpoint x="694" y="922"/>    
+    <bendpoint x="694" y="1421"/>    
+    <bendpoint x="694" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <generalization id="113">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="54"/>  
+  </generalization>  
+  <dependency id="114">    
+    <bendpoint x="3992" y="1421"/>    
+    <bendpoint x="3952" y="2046"/>    
+    <bendpoint x="3900" y="2851"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="115">    
+    <bendpoint x="98" y="922"/>    
+    <bendpoint x="98" y="1421"/>    
+    <bendpoint x="98" y="2046"/>    
+    <bendpoint x="98" y="2851"/>    
+    <bendpoint x="98" y="3080"/>    
+    <bendpoint x="98" y="3489"/>    
+    <bendpoint x="98" y="3898"/>    
+    <bendpoint x="140" y="4469"/>    
+    <bendpoint x="203" y="4780"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <generalization id="116">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="117">    
+    <bendpoint x="2936" y="3898"/>    
+    <bendpoint x="2936" y="4469"/>    
+    <bendpoint x="2936" y="4780"/>    
+    <bendpoint x="2936" y="4991"/>    
+    <bendpoint x="2936" y="5184"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="118">    
+    <bendpoint x="1136" y="3080"/>    
+    <bendpoint x="1084" y="3489"/>    
+    <bendpoint x="1063" y="3898"/>    
+    <bendpoint x="1021" y="4469"/>    
+    <bendpoint x="1000" y="4780"/>    
+    <bendpoint x="1000" y="4991"/>    
+    <bendpoint x="1000" y="5184"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <association id="119">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="120" name="emptyPacket"/>      
+      <multiplicity id="121" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="122">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="60"/>  
+  </generalization>  
+  <nesting id="123">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="124">    
+    <bendpoint x="1593" y="603"/>    
+    <bendpoint x="1528" y="922"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="125" name="accMapPrime">        
+        <position height="18" width="72" x="1786" y="756"/>      
+      </attribute>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="127">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="128">    
+    <bendpoint x="3146" y="3080"/>    
+    <bendpoint x="3146" y="3489"/>    
+    <bendpoint x="3146" y="3898"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="129">    
+    <bendpoint x="1633" y="922"/>    
+    <bendpoint x="1633" y="1421"/>    
+    <bendpoint x="2002" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="130">    
+    <bendpoint x="948" y="3898"/>    
+    <bendpoint x="985" y="4469"/>    
+    <bendpoint x="1021" y="4780"/>    
+    <bendpoint x="1404" y="4991"/>    
+    <bendpoint x="1714" y="5184"/>    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="131">    
+    <bendpoint x="673" y="922"/>    
+    <bendpoint x="673" y="1421"/>    
+    <bendpoint x="673" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="132">    
+    <bendpoint x="2833" y="922"/>    
+    <bendpoint x="2833" y="1421"/>    
+    <bendpoint x="2833" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <dependency id="133">    
+    <bendpoint x="4013" y="1421"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="134">    
+    <bendpoint x="1268" y="922"/>    
+    <bendpoint x="1268" y="1421"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <association id="135">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="136" name="ArmorMat"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="138">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <association id="139">    
+    <bendpoint x="2023" y="2046"/>    
+    <bendpoint x="1696" y="2851"/>    
+    <bendpoint x="1696" y="3080"/>    
+    <bendpoint x="1696" y="3489"/>    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="140" name="procFlavor"/>      
+      <multiplicity id="141" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="142">    
+    <bendpoint x="3877" y="3898"/>    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <association id="143">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="144" name="Lines"/>      
+      <multiplicity id="145" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="146">    
+    <bendpoint x="2270" y="2851"/>    
+    <bendpoint x="1759" y="3080"/>    
+    <bendpoint x="1759" y="3489"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="147">    
+    <bendpoint x="1654" y="2851"/>    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="148">    
+    <bendpoint x="3889" y="2046"/>    
+    <bendpoint x="3963" y="2851"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <generalization id="149">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="60"/>  
+  </generalization>  
+  <dependency id="150">    
+    <bendpoint x="203" y="922"/>    
+    <bendpoint x="203" y="1421"/>    
+    <bendpoint x="203" y="2046"/>    
+    <bendpoint x="203" y="2851"/>    
+    <bendpoint x="602" y="3080"/>    
+    <bendpoint x="1000" y="3489"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="151">    
+    <bendpoint x="2065" y="2046"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <generalization id="152">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="153">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="154" name="ShieldMat"/>      
+      <multiplicity id="155" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="156">    
+    <bendpoint x="2799" y="4469"/>    
+    <bendpoint x="2799" y="4780"/>    
+    <bendpoint x="2799" y="4991"/>    
+    <bendpoint x="2799" y="5184"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <nesting id="157">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <association id="158">    
+    <bendpoint x="182" y="2851"/>    
+    <bendpoint x="119" y="3080"/>    
+    <bendpoint x="125" y="3489"/>    
+    <bendpoint x="140" y="3898"/>    
+    <bendpoint x="182" y="4469"/>    
+    <bendpoint x="224" y="4780"/>    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="159" name="damage"/>      
+      <multiplicity id="160" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="161">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="162">    
+    <bendpoint x="3637" y="2046"/>    
+    <bendpoint x="3837" y="2851"/>    
+    <bendpoint x="3837" y="3080"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="63"/>  
+  </dependency>  
+  <dependency id="163">    
+    <bendpoint x="3858" y="2851"/>    
+    <bendpoint x="3816" y="3080"/>    
+    <bendpoint x="3451" y="3489"/>    
+    <bendpoint x="3480" y="3898"/>    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <generalization id="164">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <generalization id="165">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="37"/>  
+  </generalization>  
+  <dependency id="166">    
+    <bendpoint x="3616" y="2046"/>    
+    <bendpoint x="3795" y="2851"/>    
+    <bendpoint x="3795" y="3080"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="64"/>  
+  </dependency>  
+  <generalization id="167">    
+    <bendpoint x="3942" y="2851"/>    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="60"/>  
+  </generalization>  
+  <dependency id="168">    
+    <bendpoint x="4899" y="2851"/>    
+    <bendpoint x="4899" y="3080"/>    
+    <bendpoint x="4899" y="3489"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="67"/>  
+  </dependency>  
+  <generalization id="169">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <association id="170">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="171" name="presets"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="173">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="174" name="tokenTotals"/>      
+      <multiplicity id="175" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="176">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <dependency id="177">    
+    <bendpoint x="633" y="2851"/>    
+    <bendpoint x="1094" y="3080"/>    
+    <bendpoint x="1105" y="3489"/>    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="178">    
+    <bendpoint x="161" y="3898"/>    
+    <bendpoint x="161" y="4469"/>    
+    <bendpoint x="161" y="4780"/>    
+    <bendpoint x="161" y="4991"/>    
+    <bendpoint x="161" y="5184"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="179">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <generalization id="180">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="44"/>  
+  </generalization>  
+  <generalization id="181">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="60"/>  
+  </generalization>  
+  <dependency id="182">    
+    <bendpoint x="2159" y="3080"/>    
+    <bendpoint x="2138" y="3489"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="183">    
+    <bendpoint x="969" y="3898"/>    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="184" name="damage"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="186">    
+    <bendpoint x="2241" y="4469"/>    
+    <bendpoint x="2241" y="4780"/>    
+    <bendpoint x="2241" y="4991"/>    
+    <bendpoint x="2241" y="5184"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="187">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="54"/>  
+  </generalization>  
+  <nesting id="188">    
+    <bendpoint x="4222" y="2851"/>    
+    <bendpoint x="3858" y="3080"/>    
+    <bendpoint x="3472" y="3489"/>    
+    <bendpoint x="3459" y="3898"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <dependency id="189">    
+    <bendpoint x="3409" y="3080"/>    
+    <bendpoint x="3409" y="3489"/>    
+    <bendpoint x="3409" y="3898"/>    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="190">    
+    <bendpoint x="5004" y="1421"/>    
+    <bendpoint x="5046" y="2046"/>    
+    <bendpoint x="5046" y="2851"/>    
+    <bendpoint x="5429" y="3080"/>    
+    <bendpoint x="5812" y="3489"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="191">    
+    <bendpoint x="140" y="922"/>    
+    <bendpoint x="140" y="1421"/>    
+    <bendpoint x="140" y="2046"/>    
+    <bendpoint x="119" y="2851"/>    
+    <bendpoint x="140" y="3080"/>    
+    <bendpoint x="613" y="3489"/>    
+    <bendpoint x="990" y="3898"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="192">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="193">    
+    <bendpoint x="1021" y="3489"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <nesting id="194">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <association id="195">    
+    <bendpoint x="5067" y="603"/>    
+    <bendpoint x="5067" y="922"/>    
+    <bendpoint x="5067" y="1421"/>    
+    <bendpoint x="5067" y="2046"/>    
+    <bendpoint x="5067" y="2851"/>    
+    <bendpoint x="5067" y="3080"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="196" name="enemyPrime"/>      
+      <multiplicity id="197" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="198">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <nesting id="199">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="31"/>  
+  </nesting>  
+  <dependency id="200">    
+    <bendpoint x="3829" y="3898"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="201">    
+    <bendpoint x="56" y="922"/>    
+    <bendpoint x="56" y="1421"/>    
+    <bendpoint x="56" y="2046"/>    
+    <bendpoint x="56" y="2851"/>    
+    <bendpoint x="56" y="3080"/>    
+    <bendpoint x="56" y="3489"/>    
+    <bendpoint x="56" y="3898"/>    
+    <bendpoint x="56" y="4469"/>    
+    <bendpoint x="56" y="4780"/>    
+    <bendpoint x="56" y="4991"/>    
+    <bendpoint x="56" y="5184"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="202">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <association id="203">    
+    <bendpoint x="2283" y="4780"/>    
+    <bendpoint x="2283" y="4991"/>    
+    <bendpoint x="2283" y="5184"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="204" name="flavor"/>      
+      <multiplicity id="205" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="206">    
+    <bendpoint x="5025" y="1421"/>    
+    <bendpoint x="5025" y="2046"/>    
+    <bendpoint x="4983" y="2851"/>    
+    <bendpoint x="4962" y="3080"/>    
+    <bendpoint x="4941" y="3489"/>    
+    <bendpoint x="4941" y="3898"/>    
+    <bendpoint x="4941" y="4469"/>    
+    <bendpoint x="4941" y="4780"/>    
+    <bendpoint x="4941" y="4991"/>    
+    <bendpoint x="4941" y="5184"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="207">    
+    <bendpoint x="654" y="2851"/>    
+    <bendpoint x="1570" y="2046"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <association id="208">    
+    <bendpoint x="2008" y="4469"/>    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="209" name="spine"/>      
+      <multiplicity id="210" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="211">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="212" name="flavors"/>      
+      <multiplicity id="213" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="214">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="215" name="mainStat"/>      
+      <multiplicity id="216" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="217">    
+    <bendpoint x="1549" y="3080"/>    
+    <bendpoint x="1549" y="3489"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="218">    
+    <bendpoint x="3950" y="1421"/>    
+    <bendpoint x="3910" y="2046"/>    
+    <bendpoint x="3816" y="2851"/>    
+    <bendpoint x="3388" y="3080"/>    
+    <bendpoint x="3020" y="3489"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="219">    
+    <bendpoint x="2417" y="1421"/>    
+    <bendpoint x="1654" y="2046"/>    
+    <bendpoint x="1612" y="2851"/>    
+    <bendpoint x="1570" y="3080"/>    
+    <bendpoint x="1528" y="3489"/>    
+    <bendpoint x="1528" y="3898"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="220">    
+    <bendpoint x="2159" y="3489"/>    
+    <bendpoint x="1926" y="3898"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="221">    
+    <bendpoint x="2666" y="3489"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="222">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="223">    
+    <bendpoint x="4941" y="2851"/>    
+    <bendpoint x="4941" y="3080"/>    
+    <bendpoint x="4962" y="3489"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="224">    
+    <bendpoint x="3083" y="3080"/>    
+    <bendpoint x="2387" y="3489"/>    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="225">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="226">    
+    <bendpoint x="3971" y="1421"/>    
+    <bendpoint x="4086" y="2046"/>    
+    <bendpoint x="4201" y="2851"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <dependency id="227">    
+    <bendpoint x="203" y="4469"/>    
+    <bendpoint x="182" y="4780"/>    
+    <bendpoint x="182" y="4991"/>    
+    <bendpoint x="182" y="5184"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="228">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="229">    
+    <bendpoint x="245" y="4469"/>    
+    <bendpoint x="245" y="4780"/>    
+    <bendpoint x="245" y="4991"/>    
+    <bendpoint x="245" y="5184"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="230" name="procFlavor"/>      
+      <multiplicity id="231" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="232">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <dependency id="233">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="234">    
+    <bendpoint x="2312" y="2046"/>    
+    <bendpoint x="2312" y="2851"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <nesting id="235">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="34"/>  
+  </nesting>  
+  <dependency id="236">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="237">    
+    <bendpoint x="4055" y="922"/>    
+    <bendpoint x="4055" y="1421"/>    
+    <bendpoint x="3988" y="2046"/>    
+    <bendpoint x="3921" y="2851"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <generalization id="238">    
+    <bendpoint x="3123" y="2046"/>    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="54"/>  
+  </generalization>  
+  <dependency id="239">    
+    <bendpoint x="3062" y="3080"/>    
+    <bendpoint x="3062" y="3489"/>    
+    <bendpoint x="3062" y="3898"/>    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="240">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="241">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="242">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="243" name="gun"/>      
+      <multiplicity id="244" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="245">    
+    <bendpoint x="1861" y="4991"/>    
+    <bendpoint x="1861" y="5184"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="246" name="flavor"/>      
+      <multiplicity id="247" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="248">    
+    <bendpoint x="1591" y="922"/>    
+    <bendpoint x="1591" y="1421"/>    
+    <bendpoint x="1549" y="2046"/>    
+    <bendpoint x="1633" y="2851"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <realization id="249">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <dependency id="250">    
+    <bendpoint x="161" y="3080"/>    
+    <bendpoint x="146" y="3489"/>    
+    <bendpoint x="119" y="3898"/>    
+    <bendpoint x="119" y="4469"/>    
+    <bendpoint x="119" y="4780"/>    
+    <bendpoint x="119" y="4991"/>    
+    <bendpoint x="119" y="5184"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <association id="251">    
+    <bendpoint x="4647" y="3489"/>    
+    <bendpoint x="4647" y="3898"/>    
+    <end type="SOURCE" refId="60" navigable="false">      
+      <attribute id="252" name="Cat"/>      
+      <multiplicity id="253" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="254">    
+    <bendpoint x="2262" y="4780"/>    
+    <bendpoint x="2262" y="4991"/>    
+    <bendpoint x="2262" y="5184"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="255">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="68"/>  
+  </generalization>  
+  <dependency id="256">    
+    <bendpoint x="2044" y="922"/>    
+    <bendpoint x="2044" y="1421"/>    
+    <bendpoint x="2044" y="2046"/>    
+    <bendpoint x="2291" y="2851"/>    
+    <bendpoint x="3001" y="3080"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="257">    
+    <bendpoint x="1115" y="3080"/>    
+    <bendpoint x="1267" y="3489"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="258">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="259">    
+    <bendpoint x="2196" y="3898"/>    
+    <bendpoint x="2178" y="4469"/>    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="260" name="props"/>      
+      <multiplicity id="261" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="262">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="263">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="60"/>  
+  </generalization>  
+  <generalization id="264">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <association id="265">    
+    <bendpoint x="2648" y="603"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="266" name="gunPrime"/>      
+      <multiplicity id="267" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="268">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <dependency id="269">    
+    <bendpoint x="2199" y="4469"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <generalization id="270">    
+    <bendpoint x="1052" y="3080"/>    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="56"/>  
+  </generalization>  
+  <dependency id="271">    
+    <bendpoint x="161" y="922"/>    
+    <bendpoint x="161" y="1421"/>    
+    <bendpoint x="161" y="2046"/>    
+    <bendpoint x="161" y="2851"/>    
+    <bendpoint x="224" y="3080"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <association id="272">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="273" name="HealthMat"/>      
+      <multiplicity id="274" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="275">    
+    <bendpoint x="1570" y="922"/>    
+    <bendpoint x="1570" y="1421"/>    
+    <bendpoint x="1486" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <generalization id="276">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="33"/>  
+  </generalization>  
+  <dependency id="277">    
+    <bendpoint x="182" y="3080"/>    
+    <bendpoint x="182" y="3489"/>    
+    <bendpoint x="182" y="3898"/>    
+    <bendpoint x="224" y="4469"/>    
+    <bendpoint x="266" y="4780"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="278">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="279">    
+    <bendpoint x="2459" y="922"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="280">    
+    <bendpoint x="2854" y="1421"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <dependency id="281">    
+    <bendpoint x="4264" y="2851"/>    
+    <bendpoint x="4264" y="3080"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <dependency id="282">    
+    <bendpoint x="2980" y="3080"/>    
+    <bendpoint x="2180" y="3489"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="283">    
+    <bendpoint x="1246" y="3080"/>    
+    <bendpoint x="1246" y="3489"/>    
+    <bendpoint x="1336" y="3898"/>    
+    <bendpoint x="1425" y="4469"/>    
+    <bendpoint x="1425" y="4780"/>    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="284" name="damage"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="286">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="48"/>  
+  </nesting>  
+  <dependency id="287">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="288">    
+    <bendpoint x="2065" y="922"/>    
+    <bendpoint x="2065" y="1421"/>    
+    <bendpoint x="2086" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <realization id="289">    
+    <bendpoint x="1247" y="922"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <dependency id="290">    
+    <bendpoint x="2244" y="603"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="291">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="292">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="293" name="currentMode"/>      
+      <multiplicity id="294" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="295">    
+    <bendpoint x="1528" y="2046"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="296">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="65"/>  
+  </dependency>  
+  <generalization id="297">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <dependency id="298">    
+    <bendpoint x="3125" y="3080"/>    
+    <bendpoint x="3125" y="3489"/>    
+    <bendpoint x="3125" y="3898"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="299">    
+    <bendpoint x="1612" y="922"/>    
+    <bendpoint x="1612" y="1421"/>    
+    <bendpoint x="1612" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <dependency id="300">    
+    <bendpoint x="2096" y="3080"/>    
+    <bendpoint x="2096" y="3489"/>    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="301">    
+    <bendpoint x="927" y="3898"/>    
+    <bendpoint x="927" y="4469"/>    
+    <bendpoint x="927" y="4780"/>    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <association id="302">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="303" name="maxProcsActive"/>      
+      <multiplicity id="304" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="305">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <nesting id="306">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <dependency id="307">    
+    <bendpoint x="2138" y="3080"/>    
+    <bendpoint x="2117" y="3489"/>    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="308">    
+    <bendpoint x="713" y="302"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <nesting id="309">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <generalization id="310">    
+    <bendpoint x="3144" y="1421"/>    
+    <bendpoint x="3144" y="2046"/>    
+    <bendpoint x="3144" y="2851"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <dependency id="311">    
+    <bendpoint x="3616" y="3898"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="312">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <nesting id="313">    
+    <bendpoint x="4668" y="3489"/>    
+    <bendpoint x="4668" y="3898"/>    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="61"/>  
+  </nesting>  
+  <dependency id="314">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <association id="315">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="316" name="GasParent"/>      
+      <multiplicity id="317" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="52" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="318">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <generalization id="319">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="54"/>  
+  </generalization>  
+  <dependency id="320">    
+    <bendpoint x="1031" y="3080"/>    
+    <bendpoint x="1053" y="2851"/>    
+    <bendpoint x="1633" y="2046"/>    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <generalization id="321">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <dependency id="322">    
+    <bendpoint x="2201" y="3489"/>    
+    <bendpoint x="1947" y="3898"/>    
+    <bendpoint x="1766" y="4469"/>    
+    <bendpoint x="1696" y="4780"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="323">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="324">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="325">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="326">    
+    <bendpoint x="3430" y="3489"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <nesting id="327">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <nesting id="328">    
+    <bendpoint x="1787" y="4469"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <dependency id="329">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="66"/>  
+  </dependency>  
+  <dependency id="330">    
+    <bendpoint x="1696" y="1421"/>    
+    <bendpoint x="1591" y="2046"/>    
+    <bendpoint x="1591" y="2851"/>    
+    <bendpoint x="1591" y="3080"/>    
+    <bendpoint x="1591" y="3489"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="331">    
+    <bendpoint x="2222" y="3489"/>    
+    <bendpoint x="1968" y="3898"/>    
+    <bendpoint x="1968" y="4469"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <generalization id="332">    
+    <bendpoint x="4962" y="2851"/>    
+    <bendpoint x="4983" y="3080"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <dependency id="333">    
+    <bendpoint x="1717" y="3080"/>    
+    <bendpoint x="1717" y="3489"/>    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="334">    
+    <bendpoint x="2220" y="4469"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="335">    
+    <bendpoint x="3041" y="3080"/>    
+    <bendpoint x="3041" y="3489"/>    
+    <bendpoint x="3041" y="3898"/>    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="336">    
+    <end type="SOURCE" refId="60" navigable="false">      
+      <attribute id="337" name="NullReport"/>      
+      <multiplicity id="338" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="339">    
+    <bendpoint x="459" y="3080"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="340">    
+    <bendpoint x="4034" y="1421"/>    
+    <bendpoint x="5004" y="2046"/>    
+    <bendpoint x="5004" y="2851"/>    
+    <bendpoint x="5004" y="3080"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="341">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="342">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="343">    
+    <bendpoint x="3637" y="3898"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="344" name="target"/>      
+      <multiplicity id="345" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="346">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <association id="347">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="348" name="diag_numericCritPercent"/>      
+      <multiplicity id="349" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="350">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <generalization id="351">    
+    <bendpoint x="3482" y="2851"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="352">    
+    <bendpoint x="2957" y="3489"/>    
+    <bendpoint x="2957" y="3898"/>    
+    <bendpoint x="2957" y="4469"/>    
+    <bendpoint x="2957" y="4780"/>    
+    <bendpoint x="2957" y="4991"/>    
+    <bendpoint x="2957" y="5184"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="353">    
+    <bendpoint x="3663" y="922"/>    
+    <bendpoint x="3658" y="1421"/>    
+    <bendpoint x="3658" y="2046"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="354">    
+    <bendpoint x="3679" y="1421"/>    
+    <bendpoint x="3931" y="2046"/>    
+    <bendpoint x="3879" y="2851"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="355">    
+    <bendpoint x="1693" y="5184"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="356">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

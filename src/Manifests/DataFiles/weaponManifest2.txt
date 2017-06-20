@@ -1,0 +1,38 @@
+weapons={
+Rifle_Tenno_Braton={
+parseType=StandardRifle
+name=Braton
+type=Rifle
+fireInterval=-1
+fireRate=8.75
+reloadInterval=2.0
+maxMagSize=45
+BulletCharacteristics=[
+{
+	Trigger=Automatic
+	bulletsConsumedPerTriggerPull=1
+	scaledDamagePacket={
+		flavoredValues=[
+		{
+			flavor=impact
+			value=6.6
+		},
+		{
+			flavor=puncture
+			value=6.6
+		},
+		{
+			flavor=slash
+			value=6.8
+		}
+		]
+	}
+	critChance=10.0%
+	critMult=1.5
+	extraBulletChance=0.0%
+	procChance=5.0%
+	forcedProcs=[]
+}
+]
+}
+}
